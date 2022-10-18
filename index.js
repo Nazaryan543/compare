@@ -22,6 +22,6 @@ function f(){
             }
         }
     }
-    console.log(longestmatchString)
+    alert(longestmatchString)
 
 }
